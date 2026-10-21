@@ -1,12 +1,18 @@
+<p align="center">
+  <img src="https://github.com/ismailarslantas.png?size=240" width="120" height="120" alt="İsmail Arslantaş">
+</p>
+
 <h1 align="center">İsmail Arslantaş</h1>
 
 <p align="center">
-  <b>Video editor since 2002 · Designer · Building AI tools that edit like a human</b><br>
-  <sub>2002'den beri video kurgu ve grafik tasarım · Yapay zekâ ile kreatif üretim</sub>
+  <b>Video editor & designer since 2002 · Brand & content strategist · Building AI tools that edit like a human</b><br>
+  <sub>2002'den beri video kurgu ve grafik tasarım · Marka & içerik stratejisi · Yapay zekâ ile kreatif üretim</sub>
 </p>
 
 <p align="center">
   <a href="https://www.ismailarslantas.com"><img alt="Website" src="https://img.shields.io/badge/ismailarslantas.com-111?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.instagram.com/ismailarslntas"><img alt="Instagram" src="https://img.shields.io/badge/@ismailarslntas-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://aidijitalakademi.gumroad.com"><img alt="Gumroad" src="https://img.shields.io/badge/Shop-Gumroad-FF90E8?style=flat-square&logo=gumroad&logoColor=black"></a>
   <a href="https://github.com/ismailarslantas/lionstone"><img alt="Lionstone" src="https://img.shields.io/badge/🦁_Lionstone-AI_editing_agent-E8B04B?style=flat-square"></a>
   <a href="https://github.com/ismailarslantas?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/ismailarslantas?style=flat-square&label=followers&color=555"></a>
 </p>
@@ -27,7 +33,13 @@ pip install "lionstone[whisper] @ git+https://github.com/ismailarslantas/lionsto
 lionstone edit talk.mp4
 ```
 
-<sub>FFmpeg · Whisper · Remotion · MCP · Python · TypeScript — Apache-2.0. Multicam, Shorts/Reels generator and NLE export are in <a href="https://github.com/ismailarslantas/lionstone/blob/main/docs/PRO.md">Lionstone Pro</a>.</sub>
+<sub>FFmpeg · Whisper · Remotion · MCP · Python · TypeScript — Apache-2.0.</sub>
+
+| Plan | For | |
+|---|---|---|
+| **Lionstone** (free) | everyone — the open-source core | [GitHub](https://github.com/ismailarslantas/lionstone) |
+| **Lionstone Pro** | creators: multicam, Shorts/Reels clips, Resolve/Premiere export, style learning | [Get Pro](https://aidijitalakademi.gumroad.com/l/lionstone-pro) |
+| **Lionstone Studio** | agencies & teams: every Pro feature, licensed for 5 people | [Get Studio](https://aidijitalakademi.gumroad.com/l/lionstone-studio) |
 
 ### 🎬 What I do
 
@@ -54,6 +66,6 @@ lionstone edit talk.mp4
 
 ### 🤝 Work with me
 
-Need an editing pipeline, a brand system or AI-assisted content for your team? → **[ismailarslantas.com](https://www.ismailarslantas.com)**
+Need an editing pipeline, a brand system or AI-assisted content for your team? → **[ismailarslantas.com](https://www.ismailarslantas.com)** · ✉️ [info@ismailarslantas.com](mailto:info@ismailarslantas.com)
 
 If Lionstone saves you an hour of editing, a ⭐ on the repo helps more people find it.
